@@ -399,7 +399,7 @@ $definitions["Upgrade esoTalk"] = "esoTalk frissítése";
 $definitions["Use a background image"] = "Háttérkép használata";
 $definitions["Use for mobile"] = "Mobilhoz is használható";
 $definitions["Use friendly URLs"] = "Barátságos URL-k használata";
-$definitions["Used to verify your account and subscribe to conversations"] = "Used to verify your account and subscribe to conversations";
+$definitions["Used to verify your account and subscribe to conversations"] = "A fiókod ellenőrzésére és az értsítők kiküldésére használjuk.";
 $definitions["Username"] = "Felhasználónév";
 $definitions["Username or Email"] = "Felhasználónév vagy email";
 
